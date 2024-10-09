@@ -5243,7 +5243,7 @@ font-family: FontAwesome;
 }
 .shopping-cart .shopping-cart-table table tbody tr .romove-item a:hover,
 .shopping-cart .shopping-cart-table table tbody tr .romove-item a:focus {
-  color: #ff000 !important;
+  color:" #ff000 !important";
 }
 .shopping-cart .shopping-cart-table table tbody tr .cart-image .entry-thumbnail {
   display: block;
@@ -6266,7 +6266,7 @@ li.dropdown.mega-menu a.dropdown-toggle > ul.dropdown-menu:after {
     text-align: center;
     font-family: FontAwesome;
     font-weight: normal;
-    background-image: url(../../images/assets/plus.html);
+    /* background-image: url(../../images/assets/plus.html); */
     background-repeat: no-repeat;
 }
   .heading-title {
